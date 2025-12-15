@@ -1,0 +1,155 @@
+---
+title: "The Unraveling: Mapping Divorce Rates Across Ecuador"
+authors: Christian López and Matías Peréz - San Francisco de Quito University
+format: closeread-html
+resource-path: [.]
+---
+
+<style>
+/* Estilo Personalizado para una Apariencia de Concurso */
+
+/* Fondo general y estilo de fuente */
+body {
+    background-color: #F8F9FA; /* Off-white background */
+    font-family: 'Georgia', serif;
+}
+
+/* Estilo para el panel de texto que se desplaza */
+.cr-text {
+    background-color: #FFFFFF; /* White text background */
+    padding: 40px 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    border-left: 5px solid #D53E4F; /* Crisis color border */
+    color: #333333;
+    min-height: 100vh;
+}
+
+/* Estilo de títulos (Headers) */
+.cr-text h3 {
+    color: #D53E4F; /* Deep Red for crisis */
+    border-bottom: 2px solid #F0A34E; /* Separator line */
+    padding-bottom: 10px;
+    font-size: 1.8em;
+    font-weight: 700;
+}
+
+/* Estilo de párrafos (Paragraphs) */
+.cr-text p {
+    font-size: 1.25em;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+/* Estilo para la columna de visualización */
+.cr-visual {
+    background-color: #EFEFEF;
+}
+
+</style>
+
+### Chapter 1: The Broken Vow
+
+:::{.cr-section}
+
+:::{#cr-heartbreak}
+![](corazon.png)
+:::
+
+<span style="display:none;">.</span> [@cr-heartbreak]{scale-by="1.0" opacity="1.0"}
+
+<p>Every divorce is a rupture, a private tragedy scaled across a nation. This map is not just a collection of numbers; it is a geographic representation of pain and fundamental societal shifts in Ecuador.</p>
+
+<p>We begin by acknowledging the emotional weight of the data before diving into the cold statistics.</p>
+
+:::
+
+---
+
+### Chapter 2: The 3.86% Anomaly
+
+:::{.cr-section}
+
+:::{#cr-galapagos}
+![](galapagos.png)
+:::
+
+<span style="display:none;">.</span> [@cr-galapagos]{scale-by="1.0" opacity="1.0"}
+
+<p>The **Galápagos Islands** stand as the undisputed crisis zone. With a staggering divorce rate of **$3.86\%$**, they represent an extreme statistical outlier.</p>
+
+<p>This anomaly likely stems from the islands' unique pressures: high cost of living, transient populations, and the stress of life in an isolated, protected environment.</p>
+
+:::
+
+---
+
+### Chapter 3: The Continental Divide
+
+:::{.cr-section}
+
+:::{#cr-cañar}
+![](cañar.png)
+:::
+
+<span style="display:none;">.</span> [@cr-cañar]{scale-by="1.0" opacity="1.0"}
+
+<p>On the mainland, the highest dissolution rates are concentrated in the Sierra. **Cañar ($2.56\%$)** and **Azuay ($2.39\%$)** form a distinct, high-pressure zone.</p>
+
+<p>This suggests that regional economic and social dynamics in the southern highlands are driving instability, demanding targeted social interventions.</p>
+
+:::
+
+---
+
+### Chapter 4: The Quiet Reality
+
+:::{.cr-section}
+
+:::{#cr-esmeraldas}
+![](esmeraldas.png)
+:::
+
+<span style="display:none;">.</span> [@cr-esmeraldas]{scale-by="1.0" opacity="1.0"}
+
+<p>For every hotspot, there is a counterpoint. Provinces like **Zamora Chinchipe ($0.32\%$)** and **Esmeraldas ($0.53\%$)** show remarkable stability, maintaining the lowest rates in the country.</p>
+
+<p>These regions, often characterized by different economic paces or more resilient traditional structures, offer a vital baseline for understanding marital stability in Ecuador.</p>
+
+:::
+
+---
+
+### Final Chapter: A Call to Policy
+
+:::{.cr-section}
+
+:::{#cr-map}
+![](mapa.png)
+:::
+
+<span style="display:none;">.</span> [@cr-map]{scale-by="1.0" opacity="1.0"}
+
+<p>The map’s colors tell a clear story: divorce is a deeply geographic phenomenon, driven by specific regional factors, not a uniform national trend.</p>
+
+<p>Policymakers must use this geographic data to tailor support, addressing the specific pressures affecting the most vulnerable regions.</p>
+
+:::
+
+---
+
+### The Last Word
+
+:::{.cr-section}
+
+:::{#cr-fin}
+![](fin.png)
+:::
+
+<span style="display:none;">.</span> [@cr-fin]{scale-by="1.05" opacity="1.0"}
+
+<p>By transforming raw statistics into a vivid geographic narrative, we turn data into dialogue. The challenge now is to transform dialogue into meaningful change.</p>
+
+:::
+
+### Authors: Christian López & Matías Peréz 
+### San Francisco de Quito University
